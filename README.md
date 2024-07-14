@@ -3,7 +3,7 @@ Hi! My name is Hasibul Hasan Rokib 😄
 
 🌍  I am a Front-End Developer.
 
-- 🌱 I’m currently learning Node Js, Next Js & SQL Server 
+- 🌱 I’m currently learning Node Js, Next Js & Prisma  
 
 
 

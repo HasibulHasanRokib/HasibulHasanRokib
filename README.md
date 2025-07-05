@@ -3,9 +3,9 @@
       <br>
       <!-- Intro -->
       <samp>
-        🌍  I am a Front-End Developer.
+        🌍  I am a full-stack developer.
         <br>
-        🌱 I’m currently  Working on Node Js, Next Js & Prisma 
+        🌱 I’m currently  working on Node.js, Next.js & Prisma 
         <br>
       </samp>
       <br/>
